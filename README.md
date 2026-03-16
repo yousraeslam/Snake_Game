@@ -1,1 +1,1 @@
-# ping_pong_game
+# the_game
