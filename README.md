@@ -9,7 +9,7 @@ A modern take on the classic Snake game built using Python and the Pygame librar
 | Name | ID |
 | :--- | :--- |
 | Adel Mahmoud Abdelghaffar El-azawy | 24040365 |
-| Yousra Eslam Fekry Elmaandy | 24040224 |
+| Yousra Eslam Fekry Elmaandy | 24040448 |
 | Sarah Osama Ramadan Elwerdani | 24040356 |
 
 ---
