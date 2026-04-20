@@ -3,11 +3,11 @@ Follow these steps to get the game running on your local machine:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [Your Repository Link Here]
+    git clone  https://github.com/yousraeslam/Snake_Game.git
     ```
 2.  **Navigate to the project folder:**
     ```bash
-    cd [Project-Folder-Name]
+    cd Snake_Game
     ```
 3.  **Install Pygame:** (Make sure you have Python installed)
     ```bash
