@@ -1,3 +1,27 @@
+## 🚀 How to Install and Run
+Follow these steps to get the game running on your local machine:
+
+1.  **Clone the Repository:**
+    ```bash
+    git clone [Your Repository Link Here]
+    ```
+2.  **Navigate to the project folder:**
+    ```bash
+    cd [Project-Folder-Name]
+    ```
+3.  **Install Pygame:** (Make sure you have Python installed)
+    ```bash
+    pip install pygame
+    ```
+4.  **Run the Game:**
+    ```bash
+    python main.py
+    ```
+    
+
+
+
+
 ## 📸 Screenshots
 ![Gameplay Screenshot]
 https://drive.google.com/drive/folders/1rMENxazLtXTUUK_4QQAELUmB9498fzRY?usp=sharing
