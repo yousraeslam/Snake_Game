@@ -7,10 +7,10 @@ A modern take on the classic Snake game built using Python and the Pygame librar
 
 ## 👥 Team Members
 | Name | ID |
-| [Adel Mahmoud Abdelghaffar El-azawy] | [24040365] |
-| [Yousra Eslam Fekry Elmaandy] | [24040224] |
-| [Sarah Osama Ramadan Elwerdani] | [24040356] |
-
+| :--- | :--- |
+| Adel Mahmoud Abdelghaffar El-azawy | 24040365 |
+| Yousra Eslam Fekry Elmaandy | 24040224 |
+| Sarah Osama Ramadan Elwerdani | 24040356 |
 
 ---
 
